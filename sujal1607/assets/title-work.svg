@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#120B18"/><stop offset="1" stop-color="#0B0710"/></linearGradient>
+<radialGradient id="gl" cx="85%" cy="15%" r="75%"><stop offset="0" stop-color="#714B67" stop-opacity=".55"/><stop offset="1" stop-color="#714B67" stop-opacity="0"/></radialGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#C48BB5"/><stop offset=".6" stop-color="#714B67"/><stop offset="1" stop-color="#714B67" stop-opacity="0"/></linearGradient></defs>
+<style>.s{font-family:Georgia,'Palatino Linotype',serif}.m{font-family:ui-monospace,Menlo,Consolas,monospace}.n{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.f{animation:f .9s cubic-bezier(.16,1,.3,1) both}@keyframes f{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes sp{to{stroke-dashoffset:-600}}@keyframes bl{50%{opacity:0}}</style>
+<rect width="1200" height="140" rx="20" fill="url(#bg)"/><rect width="1200" height="140" rx="20" fill="url(#gl)"/>
+<rect x=".5" y=".5" width="1199" height="139" rx="20" fill="none" stroke="#714B67" stroke-opacity=".5"/><text class="m f" x="40" y="62" font-size="20" fill="#4FD1C5" font-weight="400" style="animation-delay:0s" >03</text><text class="m f" x="90" y="62" font-size="20" fill="#C48BB5" font-weight="700" style="animation-delay:0s" >SELECTED WORK</text><text class="s f" x="40" y="106" font-size="40" fill="#F6EEF4" font-weight="700" style="animation-delay:0.2s" >Modules, apps and platforms.</text><rect x="40" y="116" width="1120" height="3" rx="2" fill="url(#ln)"/></svg>

@@ -1,0 +1,11 @@
+{
+  "name": "sujal1607-portfolio",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "contributions": "node scripts/fetch-contributions.mjs",
+    "heatmap": "node scripts/build-heatmap-svg.mjs",
+    "start": "node scripts/serve.mjs"
+  }
+}
